@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* input_buf_func - buffers chained commands
+* input_buf_function - buffers chained commands
 * @info_struct: parameter struct
-* @buf_var: address of buffer
+* @buf_var: address of the buffer
 * @len_var: address of len var
 * Return: bytes read
 */
